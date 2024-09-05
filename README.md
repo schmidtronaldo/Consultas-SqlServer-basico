@@ -3,6 +3,8 @@ www.dio.me
 
 ## Desafio de projeto
 Para este desafio,utilizei meus conhecimentos adquiridos no módulo de banco de dados, da trilha .NET da DIO.
+Utilizei o DBeaver e o terminal para fazer consultas e executar os scripts
+Utilizei sistema operacional Linux
 
 ## Contexto
 Você é responsável pelo banco de dados de um site de filmes, onde são armazenados dados sobre os filmes e seus atores.
